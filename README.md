@@ -1,19 +1,19 @@
 ![MasterHead](https://www.openxcell.com/wp-content/uploads/2021/12/DevOps-Tools.svg?w=2000)
 <h1 align="center">Hi 👋, I'm Rifat</h1>
 <h3 align="center">Software Engineer || SRE || DevOps || System Administrator</h3>
-<img align="center" alt="DevOps" width="500" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/media/9fc49552a70631c92135e89ec16df1dd.gif" />
+<img align="center" alt="DevOps" width="600" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/media/9fc49552a70631c92135e89ec16df1dd.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifat0&label=Profile%20views&color=0e75b6&style=flat" alt="rifat0" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rifat0" alt="rifat0" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://rifat0.github.io](https://rifat0.github.io)
+- 👨‍💻 All of my projects are available at <a target="_blank" href="https://rifat0.github.io">https://rifat0.github.io</a>
 
 - 📫 How to reach me **rifat.aiub@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rifat0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rifat0" height="30" width="40" /></a>
+<a target="_blank" href="https://linkedin.com/in/rifat0"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rifat0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
