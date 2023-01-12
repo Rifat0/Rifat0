@@ -1,7 +1,7 @@
-[![MasterHead](https://img.freepik.com/free-vector/gradient-devops-illustration_23-2149373211.jpg?w=2000)]
+![MasterHead](https://img.freepik.com/free-vector/gradient-devops-illustration_23-2149373211.jpg?w=2000)
 <h1 align="center">Hi 👋, I'm Rifat</h1>
 <h3 align="center">Software Engineer || SRE || DevOps || System Administrator</h3>
-<img align="right" alt="DevOps" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F4502902-DevOps-engineer-animation&psig=AOvVaw3ish7Wxg_fe_LcPw9W9gdI&ust=1673601867989000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOCewvjawfwCFQAAAAAdAAAAABAy" />
+<img align="right" alt="DevOps" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/media/9fc49552a70631c92135e89ec16df1dd.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifat0&label=Profile%20views&color=0e75b6&style=flat" alt="rifat0" /> </p>
 
